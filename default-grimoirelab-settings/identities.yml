@@ -1,0 +1,344 @@
+- profile:
+    is_bot: true
+    name: Scrutinizer Auto-Fixer
+  email:
+    - auto-fixes@scrutinizer-ci.com
+  github:
+    - scrutinizer-auto-fixer
+  
+- profile:
+    is_bot: true
+    name: Translation updater bot
+  email:
+    - l10n-bot@translatewiki.net
+
+- profile:
+    is_bot: true
+    name: L10n-bot
+  email:
+    - l10n-bot@translatewiki.net
+
+#- email:
+#    - null
+#  profile:
+#    is_bot: true
+#    name: codeclimate[bot]
+
+- profile:
+    is_bot: true
+    name: dependabot-preview[bot]
+  github:
+    - dependabot-preview[bot] 
+
+- profile:
+    is_bot: true
+    name: dependabot-preview[bot]
+  email:
+    - 27856297+dependabot-preview[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: translatewiki.net
+  email:
+    - translatewiki@translatewiki.net
+  github:
+    - translatewiki 
+
+- profile:
+    is_bot: true
+    name: GitHub No Reply
+  email:
+    - noreply@github.com
+  
+- profile:
+    is_bot: true
+    name: travisbot
+  email:
+    - support@travis-ci.org
+
+#- email:
+#    - null
+#  profile:
+#    is_bot: true
+#    name: wikimedia-helper-bot-for-github[bot]
+
+- profile:
+    is_bot: true
+    name: bitHound
+  email:
+    - prbot@bithound.io
+
+- profile:
+    is_bot: true
+    name: snyk-bot
+  email:
+    - snyk-bot@snyk.io
+  github:
+    - snyk-bot 
+
+- profile:
+    is_bot: true
+    name: Snyk bot
+  email:
+    - support@snyk.io
+
+#- email:
+#    - null
+#  profile:
+#    is_bot: true
+#    name: codecov[bot]
+
+- profile:
+    is_bot: true
+    name: codecov-io
+  email:
+    - hello@codecov.io
+
+#- email:
+#    - null
+#  profile:
+#    is_bot: true
+#    name: codecov-commenter
+
+- profile:
+    is_bot: true
+    name: jenkins-bot
+  email:
+    - jenkins-bot@gerrit.wikimedia.org
+
+- profile:
+    is_bot: true
+    name: Scrutinizer Auto-Fixer
+  email:
+    - auto-fixer@scrutinizer-ci.com
+  
+
+- profile:
+    is_bot: true
+    name: ci-build
+  email:
+    - ci-build@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: Jenkins
+  email:
+    - jenkins@appsci.corp.wikimedia.org
+
+- profile:
+    is_bot: true
+    name: Jenkins iOS
+  email:
+    - jenkinsiOS@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: coveralls
+  github:
+    - coveralls
+
+- profile:
+    is_bot: true
+    name: wmf-apps-ci
+  email:
+    - wmf-apps-ci@users.noreply.github.com
+  github:
+    - wmf-apps-ci
+
+- profile:
+    is_bot: true
+    name: ci-apps
+  email:
+    - ci-apps@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: github-actions[bot]
+  email:
+    - github-actions@github.com
+  github:
+    - github-actions[bot]
+
+- profile:
+    is_bot: true
+    name: dependabot[bot]
+  email:
+    - 49699333+dependabot[bot]@users.noreply.github.com
+  github:
+    - dependabot[bot]
+
+- profile:
+    is_bot: true
+    name: The Android Automerger
+  email:
+    - android-build@android.com
+
+- profile:
+    is_bot: true
+    name: framawiki
+  email:
+    - framawiki@tools.wmflabs.org
+  github:
+    - framawiki
+
+- profile:
+    is_bot: true
+    name: Template builder
+  email:
+    - builder@example.com
+
+- profile:
+    is_bot: true
+    name: tools.copypatrol
+  email:
+    - tools.copypatrol@tools-bastion-03.tools.eqiad.wmflabs
+
+- profile:
+    is_bot: true
+    name: Android Git Automerger
+  email:
+    - android-git-automerger@android.com
+
+- profile:
+    is_bot: true
+    name: android code review
+  email:
+    - noreply-gerritcodereview@google.com
+
+# New: 2021, Sep. 15th
+
+- profile:
+    is_bot: true
+    name: OpenStack Release Bot
+  email: infra-root@openstack.org
+
+- profile:
+    is_bot: true
+    name: Performance Team Bot
+  email: performance-team@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: PrometheusBot
+  email: prometheus-team@googlegroups.com
+
+- profile:
+    is_bot: true
+    name: Addbot[dependabot]
+  email: addshorewiki+addbot-dependabot@gmail.com
+
+- profile:
+    is_bot: true
+    name: Wikimedia Jenkins Bot
+  email: jenkins-slave@gallium.wikimedia.org
+
+- profile:
+    is_bot: true
+    name: tools.maintenance-bot
+  email: ladsgroup@gmail.com
+
+- profile:
+    is_bot: true
+    name: PipelineBot
+  email: tcipriani+pipelinebot@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: pyup-bot
+  email: github-bot@pyup.io
+
+- profile:
+    is_bot: true
+    name: gerritbot
+  email: ladsgroup+gerritbot@gmail.com
+
+# - profile:
+#     is_bot: true
+#     name: ri-diffbot
+#   email: 
+
+- profile:
+    is_bot: true
+    name: renovate[bot]
+  email: 29139614+renovate[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: dependabot-preview[bot]
+  email: 27856297+dependabot-preview[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: SecureLinkFixer updater bot
+  email: tools.slf@tools.wmflabs.org
+
+- profile:
+    is_bot: true
+    name: OpenStack Proposal Bot
+  email: openstack-infra@lists.openstack.org
+
+- profile:
+    is_bot: true
+    name: greenkeeperio-bot
+  email: support@greenkeeper.io
+
+- profile:
+    is_bot: true
+    name: Renovate Bot
+  email: bot@renovateapp.com
+
+- profile:
+    is_bot: true
+    name: facebook-github-bot
+  email: githubbot@fb.com
+
+- profile:
+    is_bot: true
+    name: twinkle_bot
+  email: twinkle_bot@github.com
+
+- profile:
+    is_bot: true
+    name: dependabot-preview[bot]
+  email: dependabot-preview[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: dependabot[bot]
+  email: dependabot[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: jenkins-bot
+  email: jenkins-bot@wikimedia.org
+
+- profile:
+    is_bot: true
+    name: greenkeeper[bot]
+  email: greenkeeper[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: PrivateBin Translator Bot
+  email: 72346835+privatebin-translator@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: dependabot[bot]
+  email: support@dependabot.com
+
+- profile:
+    is_bot: true
+    name: k8s-merge-robot
+  email: k8s.production.user@gmail.com
+
+- profile:
+    is_bot: true
+    name: renovate[bot]
+  email: renovate[bot]@users.noreply.github.com
+
+- profile:
+    is_bot: true
+    name: ImgBotApp
+  email: ImgBotHelp@gmail.com
+

@@ -1,0 +1,29 @@
+wheel
+setuptools
+Cython
+numpy
+pandas>=1.0.4
+jupyter
+elasticsearch==7.7.1
+elasticsearch-dsl==7.2.0
+requests>=2.24.0
+matplotlib>=3.2.2
+ipython>=7.16.1
+scikit-learn>=0.24.2
+# ntlk>=3.6.5
+PyYAML
+seaborn
+Cython
+geopandas
+pyproj
+folium
+imblearn
+# python-Levenshtein
+pydotplus
+graphviz
+yellowbrick
+plotly==5.11.0
+nbconvert
+pyppeteer
+xgboost
+
