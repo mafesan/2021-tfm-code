@@ -5,7 +5,13 @@
     - auto-fixes@scrutinizer-ci.com
   github:
     - scrutinizer-auto-fixer
-  
+
+- profile:
+    is_bot: true
+    name: Scrutinizer Auto-Fixer
+  email:
+    - auto-fixer@scrutinizer-ci.com
+
 - profile:
     is_bot: true
     name: Translation updater bot
@@ -14,21 +20,9 @@
 
 - profile:
     is_bot: true
-    name: L10n-bot
-  email:
-    - l10n-bot@translatewiki.net
-
-#- email:
-#    - null
-#  profile:
-#    is_bot: true
-#    name: codeclimate[bot]
-
-- profile:
-    is_bot: true
     name: dependabot-preview[bot]
   github:
-    - dependabot-preview[bot] 
+    - dependabot-preview[bot]
 
 - profile:
     is_bot: true
@@ -42,25 +36,19 @@
   email:
     - translatewiki@translatewiki.net
   github:
-    - translatewiki 
+    - translatewiki
 
 - profile:
     is_bot: true
     name: GitHub No Reply
   email:
     - noreply@github.com
-  
+
 - profile:
     is_bot: true
     name: travisbot
   email:
     - support@travis-ci.org
-
-#- email:
-#    - null
-#  profile:
-#    is_bot: true
-#    name: wikimedia-helper-bot-for-github[bot]
 
 - profile:
     is_bot: true
@@ -74,7 +62,7 @@
   email:
     - snyk-bot@snyk.io
   github:
-    - snyk-bot 
+    - snyk-bot
 
 - profile:
     is_bot: true
@@ -82,36 +70,17 @@
   email:
     - support@snyk.io
 
-#- email:
-#    - null
-#  profile:
-#    is_bot: true
-#    name: codecov[bot]
-
 - profile:
     is_bot: true
     name: codecov-io
   email:
     - hello@codecov.io
 
-#- email:
-#    - null
-#  profile:
-#    is_bot: true
-#    name: codecov-commenter
-
 - profile:
     is_bot: true
     name: jenkins-bot
   email:
     - jenkins-bot@gerrit.wikimedia.org
-
-- profile:
-    is_bot: true
-    name: Scrutinizer Auto-Fixer
-  email:
-    - auto-fixer@scrutinizer-ci.com
-  
 
 - profile:
     is_bot: true
@@ -205,8 +174,6 @@
   email:
     - noreply-gerritcodereview@google.com
 
-# New: 2021, Sep. 15th
-
 - profile:
     is_bot: true
     name: OpenStack Release Bot
@@ -252,10 +219,6 @@
     name: gerritbot
   email: ladsgroup+gerritbot@gmail.com
 
-# - profile:
-#     is_bot: true
-#     name: ri-diffbot
-#   email: 
 
 - profile:
     is_bot: true
@@ -341,4 +304,3 @@
     is_bot: true
     name: ImgBotApp
   email: ImgBotHelp@gmail.com
-
